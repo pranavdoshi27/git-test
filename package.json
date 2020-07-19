@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-works",
+  "version": "1.0.0",
+  "description": "This is test directory",
+  "main": "index.html",
+  "scripts": {"npm run lite",
+  	
+
+  	"start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+ 	"lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavdoshi27/git-test.git"
+  },
+  "author": "Pranav Doshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavdoshi27/git-test/issues"
+  },
+  "homepage": "https://github.com/pranavdoshi27/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
